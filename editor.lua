@@ -14,13 +14,6 @@
 -- great - FULL ДОСТУП
 -- u4ens - ЧАСТИЧНЫЙ ДОСТУП
 
--- Разработчик - svyanov (2018) / доработано Fancy_Legend (2023) --
--- Разработчик - svyanov (2018) / доработано Fancy_Legend (2023) --
--- Разработчик - svyanov (2018) / доработано Fancy_Legend (2023) --
--- Разработчик - svyanov (2018) / доработано Fancy_Legend (2023) --
--- Разработчик - svyanov (2018) / доработано Fancy_Legend (2023) --
--- Разработчик - svyanov (2018) / доработано Fancy_Legend (2023) --
-
 local great = {
 	['STEAM_0:1:457782670'] = true, -- fancy_legend
 }
