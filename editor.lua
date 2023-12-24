@@ -826,7 +826,6 @@ concommand.Add('editor_cl', function()
 	menu:SetVisible(!menu:IsVisible()) 
 end)
 ]]
-
 concommand.Add('editor_cl', function(ply)
 	if !table.HasValue(u4ens,ply:SteamID()) then return end
 	RunOnCL(ply, cl_editor)
