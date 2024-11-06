@@ -1,4 +1,4 @@
--- ФЕЙКОВАЯ УСТАНОВКА ВИНДЫ by Fancy_Legend
+-- ФЕЙКОВАЯ УСТАНОВКА ВИНДЫ
 
 if SERVER then return end
 
