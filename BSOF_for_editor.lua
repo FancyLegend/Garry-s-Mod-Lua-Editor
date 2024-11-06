@@ -1,4 +1,4 @@
--- СИНИЙ ЭКРАН СМЕРТИ by Fancy_Legend
+-- СИНИЙ ЭКРАН СМЕРТИ
 
 if SERVER then return end
 local time_to_remove = 10 -- Время до исчезновения синего экрана
